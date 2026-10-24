@@ -1,0 +1,10 @@
+[forcing]
+Name                            = inlet_0001
+Function                        = timeseries
+Time-interpolation              = linear
+Quantity                        = time
+Unit                            = seconds since 2022-02-18 00:00:00
+Quantity                        = dischargebnd
+Unit                            = m3/s
+0         0.67
+604800    0.67 

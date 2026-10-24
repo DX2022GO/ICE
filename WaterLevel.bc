@@ -1,0 +1,22 @@
+[forcing]
+Name                            = outlet_0001
+Function                        = timeseries
+Time-interpolation              = linear
+Quantity                        = time
+Unit                            = seconds since 2022-02-18 00:00:00
+Quantity                        = waterlevelbnd
+Unit                            = m
+0        14.27     
+604800   14.27
+
+ 
+[forcing]
+Name                            = outlet_0002
+Function                        = timeseries
+Time-interpolation              = linear
+Quantity                        = time
+Unit                            = seconds since 2022-02-18 00:00:00
+Quantity                        = waterlevelbnd
+Unit                            = m
+0        14.27     
+604800   14.27
